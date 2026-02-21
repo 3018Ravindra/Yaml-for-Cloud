@@ -3,3 +3,21 @@ servers:
   - database
   - cache
   
+  # this is a comment in the yaml file
+  - load balancer
+  - api
+  - authentication
+  - moniotoring
+  - logging
+  - backup
+  - security
+  - analystics
+  - email
+  - notification
+  - search
+  - storage
+  - cdn
+  - dns
+  - firewall
+  - vpn
+  - proxy
