@@ -24,3 +24,19 @@ servers:
 
   # my comment in the yaml file
   
+# new code in yaml file
+services:
+- web
+- database
+- cache
+- load balancer
+- api
+- authentication
+- monitoring
+- logging
+- backup
+- security
+- analytics
+- email
+- notification
+- search
