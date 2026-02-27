@@ -40,3 +40,9 @@ services:
 - email
 - notification
 - search
+
+# my first code in yaml file
+app:
+  name: "myapp"
+  port: 8080
+  debug: true
